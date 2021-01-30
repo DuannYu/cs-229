@@ -19,4 +19,3 @@ The solutions of each question can be found as follows:
 - Question 5: Kernelizing the Perceptron
 - Question 6: [Spam classification
 ](https://github.com/DuannYu/cs-229/blob/main/psets/ps2/6-spam-classfication/answer.ipynb)
-
